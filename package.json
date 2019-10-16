@@ -1,24 +1,25 @@
 {
-  "name": "Magic-Mirror-Module-RNV",
-  "version": "1.1.0",
+  "name": "Magic-Mirror-Module-TeslaFi",
+  "version": "1.0.0",
   "description": "MagicMirror2 Module to ....",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yawnsde/MMM-RNV"
+    "url": "git+https://github.com/f00d4tehg0dz/MMM-TeslaFI"
   },
   "keywords": [
     "magic mirror",
     "smart mirror",
-    "RNV",
+    "tesla",
+    "teslafi",
     "module",
   ],
-  "author": "Stefan Krause",
-  "contributors": "https://github.com/yawnsde/MMM-RNV/graphs/contributors",
+  "author": "Adrian Chrysanthou",
+  "contributors": "https://github.com/f00d4tehg0dz/MMM-TeslaFI/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yawnsde/MMM-RNV/issues"
+    "url": "https://github.com/f00d4tehg0dz/MMM-TeslaFI/issues"
   },
-  "homepage": "https://github.com/yawnsde/MMM-RNV#readme",
+  "homepage": "https://github.com/f00d4tehg0dz/MMM-TeslaFI#readme",
   "dependencies": {
     }
 }
