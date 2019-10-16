@@ -20,10 +20,7 @@ module.exports = NodeHelper.create({
 
 	getData: function() {
 		var self = this;
-
-	//	var currentDate = moment().format('YYYY-MM-DD+hh:mm:ss');
 		var myUrl = this.config.apiBase + this.config.apiKey;
-
 		request({
 			url: myUrl,
 			method: 'GET',

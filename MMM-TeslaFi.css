@@ -15,9 +15,9 @@
   margin-bottom: 0;
   padding-bottom: 0;
   margin-top: 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-align: left;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid #666;
   line-height: 2rem;
 }
 
@@ -34,8 +34,8 @@
 
 .mattributes .mattribute {
   text-align: left;
-  font-size: 1.8rem;
-  line-height: 2.5rem;
+	font-size: 1.2rem;
+  line-height: 2.0rem;
   color: #fff;
   opacity: 0.75;
 }
@@ -48,10 +48,6 @@
 }
 
 .mattributes .mattribute.battery-level.battery-level-danger .value {
-  color: lightcoral;
-}
-
-.mattributes .mattribute.sentry-mode.sentry-mode-active .value {
   color: lightcoral;
 }
 
